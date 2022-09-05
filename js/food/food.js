@@ -1,4 +1,4 @@
-class Food{
+export class Food{
     name;
     cost;
 
