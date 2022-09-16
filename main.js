@@ -1,4 +1,4 @@
-import {Zoo} from "./js/zoo/Zoo.js"
+import {Zoo} from "/js/zoo/Zoo.js"
 
 
 
